@@ -1,1 +1,1 @@
-# srmobilenet
+# pytorch-srgan
